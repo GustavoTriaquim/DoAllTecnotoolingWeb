@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# CRM de Solicitações - All Technology & Tecnotooling
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Visão Geral do Projeto
 
-## Available Scripts
+Este documento apresenta o sistema de Gerenciamento de Relacionamento com o Cliente (CRM) desenvolvido para otimizar o processo de solicitações entre a All Technology e a Tecnotooling. O objetivo principal é fornecer uma plataforma robusta e intuitiva que facilite a comunicação, o acompanhamento e a resolução eficiente das demandas, garantindo uma colaboração mais fluida e transparente entre as empresas. Em particular, este sistema visa automatizar os processos internos da Tecnotooling, utilizando formulários dinâmicos que se estendem e adaptam a cada etapa da solicitação, otimizando o fluxo de trabalho e a coleta de informações. O sistema está atualmente na versão 1.0 e em fase de desenvolvimento ativo, com foco na implementação de funcionalidades essenciais para a gestão de solicitações.
 
-In the project directory, you can run:
+## Status do Projeto
 
-### `npm start`
+O projeto "CRM de Solicitações" encontra-se atualmente em estágio de **desenvolvimento**. Estamos trabalhando ativamente na implementação das funcionalidades principais e na otimização da experiência do usuário para garantir que o sistema atenda às necessidades específicas da All Technology e da Tecnotooling. A versão atual é a **v1.0**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tecnologias Utilizadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O desenvolvimento deste sistema CRM é fundamentado em um conjunto de tecnologias modernas e eficientes, escolhidas para garantir escalabilidade, performance e uma experiência de usuário rica. As principais tecnologias empregadas incluem:
 
-### `npm test`
+*   **React.js**: Uma biblioteca JavaScript declarativa, eficiente e flexível para a construção de interfaces de usuário. Permite a criação de componentes reutilizáveis e a gestão de estados de forma otimizada.
+*   **React Router DOM**: Uma biblioteca de roteamento padrão para aplicações React, que possibilita a navegação entre diferentes visualizações da aplicação de forma dinâmica e sem recarregamento da página.
+*   **Firebase Firestore**: Um banco de dados NoSQL flexível e escalável da Google, utilizado para armazenar e sincronizar dados em tempo real. Oferece recursos robustos para autenticação, armazenamento e hospedagem.
+*   **Styled-components**: Uma biblioteca que permite escrever CSS real dentro de componentes JavaScript, facilitando a estilização e a manutenção do código, além de garantir que os estilos sejam encapsulados e dinâmicos.
+*   **FontAwesome Icons**: Uma biblioteca popular de ícones vetoriais que oferece uma vasta gama de ícones escaláveis e personalizáveis, contribuindo para uma interface de usuário mais intuitiva e visualmente atraente.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Equipe de Desenvolvimento
 
-### `npm run build`
+Este projeto está sendo desenvolvido por uma equipe dedicada e talentosa, composta pelos seguintes membros:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+*   **Ana Paula Micheletti**
+*   **Evelyn Louise**
+*   **Arthur Veiga**
+*   **Bernardo Tonini**
+*   **Yuri Powrosnek**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Funcionalidades
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O sistema CRM de solicitações oferece as seguintes funcionalidades principais (em desenvolvimento):
 
-### `npm run eject`
+*   **Gerenciamento de Solicitações**: Criação, visualização, edição e exclusão de solicitações, com status e prioridades.
+*   **Autenticação de Usuários**: Sistema de login e registro para diferentes perfis de usuários.
+*   **Dashboard Interativo**: Visão geral das solicitações, status e métricas importantes.
+*   **Notificações**: Alertas sobre atualizações e novas solicitações.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Links do Projeto
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Você pode visualizar o protótipo do projeto no Figma e a aplicação em desenvolvimento no Vercel através dos links abaixo:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*   **Protótipo Figma**: [https://www.figma.com/proto/yGySG7pUqKCiOFciWCUUl-c/DOALL-TECNOTOOLING?node-id=0-1&t=5tACpQyMoILcAvTf-1](https://www.figma.com/proto/yGySG7pUqKCiOFciWCUUl-c/DOALL-TECNOTOOLING?node-id=0-1&t=5tACpQyMoILcAvTf-1)
+*   **Aplicação Vercel**: [https://do-all-tecnotooling-web.vercel.app](https://do-all-tecnotooling-web.vercel.app)
