@@ -27,6 +27,7 @@ Este projeto está sendo desenvolvido por uma equipe dedicada e talentosa, compo
 *   **Arthur Veiga**
 *   **Bernardo Tonini**
 *   **Yuri Powrosnek**
+*   **Gustavo Triaquim**
 
 ## Funcionalidades
 
